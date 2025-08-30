@@ -1,6 +1,6 @@
 # Hi, I'm Atik Riad 👋
 
-## Data Science Learner | 5+ Years in Social Media Marketing
+## Data Science | 5+ Years in Social Media Marketing
 
 ---
 

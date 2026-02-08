@@ -1,4 +1,4 @@
-# Hi, I'm Atik Riad 👋
+# Atik Riad
 
 ## Data Science | 5+ Years in Social Media Marketing
 

@@ -1,6 +1,6 @@
 # Atik Riad
 
-## Data Science | 5+ Years in Social Media Marketing
+## Data Analytics | 5+ Years in Social Media Marketing
 
 ---
 

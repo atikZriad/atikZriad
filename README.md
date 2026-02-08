@@ -4,7 +4,7 @@
 
 ---
 
-**Bringing 5+ years of remote experience boosting social media engagements for US b2b brands through content and analytics. Love extracting insights and building solutions that power small business growth.**
+**5+ years of experience boosting social media engagements for US b2b brands through content and analytics. Love extracting insights and building solutions that power small business growth.**
 
 ---
 
@@ -13,16 +13,15 @@
 - 📈 Managed social media strategy for US-based brands, delivering **800k organic post impressions** and **7%+ engagement rates** on X, Instagram & Facebook.
 - 🧩 Built monthly analytics reports for campaign optimization and content decisions.
 - ✍️ Managed blogs, executed on-page SEO (WordPress), and completed **20+ web/marketing projects** for global clients.
-- 📨 developed highly targeted email campaigns and newsletters, generating 4-5% click-through rates on Mailchimp.
+- 📨 Developed highly targeted email campaigns and newsletters, generating 4-5% click-through rates on Mailchimp.
 
 ---
 
 ### 🛠️ Tech & Tools
 
 - **Python**, **Pandas**, **Matplotlib**, **SQL**, **Excel**, **Power BI**
-- Analytics: Google Analytics, Hootsuite, Buffer, Meta
-- Marketing: Canva, Adobe, Filmora, WordPress (HTML/CSS), SEO, Customer Support
-- Exploring: scikit-learn, Tableau
+- Canva, Adobe, Filmora, WordPress (HTML/CSS), SEO, Customer Support
+- scikit-learn, Tableau, Scraping
 
 ---
 

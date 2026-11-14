@@ -1,6 +1,6 @@
 # Hi, I'm Atik Zaman Riad 👋
 
-### Business-minded Data Analyst | SQL • Python • Power BI
+### Marketing Analytics | Business Intelligence | Performance Reporting | SQL • Python • Power BI
 
 I turn messy data into meaningful insights that help businesses understand performance, identify opportunities, and make better decisions.
 
